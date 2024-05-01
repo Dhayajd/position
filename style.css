@@ -1,0 +1,37 @@
+.box{
+    background-color: rgb(252, 126, 138);
+    position:relative;
+   
+    height: 500px;
+    width: 750px;
+}
+.arrows img {
+    height: 40px;
+    position: absolute;
+}
+.img1{
+  top: 200px;
+  left: 15px;
+
+}
+.img2{
+    top: 200px;
+    left: 700px;
+    
+}
+.circle{
+    height: 10px;
+   
+
+}
+.circles{
+    position: absolute;
+    top: 480px;
+    left: 350px; 
+}
+.num{
+    position: absolute;
+    top:200px;
+    left: 375px;
+    color: white;
+}
